@@ -3,9 +3,9 @@
     "type": "package",
     "require": {
         "silex/silex": "^1.2",
-        "jandc/critical-css-processor": "^0.2",
+        "jandc/critical-css-processor": "^0.3",
         "jandc/twig-wrapper-provider": "^0.2",
-        "jandc/page-specific-css": "^0.2"
+        "jandc/page-specific-css": "^0.3"
     },
     "authors": [
         {
