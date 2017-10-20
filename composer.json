@@ -1,11 +1,10 @@
 {
-    "name": "jandc/page-specific-css-silex",
+    "name": "jandc/critical-css-silex",
     "type": "package",
     "require": {
         "silex/silex": "^1.2",
-        "jandc/critical-css-processor": "^0.3",
-        "jandc/twig-wrapper-provider": "^0.2",
-        "jandc/page-specific-css": "^0.3"
+        "jandc/critical-css": "^0.4",
+        "jandc/twig-wrapper-provider": "^0.3"
     },
     "authors": [
         {
@@ -13,5 +12,5 @@
             "email": "jandecavele@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
