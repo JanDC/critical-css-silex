@@ -30,7 +30,7 @@ $app->extend('twig', function (Twig_Environment $twig, $app) {
 
 ## Render your pages, using the twigwrapper
 ```php
- $app['twigWrapper']->render('@templates/my/template.twig', ['foo'=>'bar']);
+ $app['twigwrapper']->render('@templates/my/template.twig', ['foo'=>'bar']);
  
  ```
 
