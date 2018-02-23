@@ -3,7 +3,7 @@
     "type": "package",
     "require": {
         "silex/silex": "^1.2",
-        "jandc/critical-css": "^0.4",
+        "jandc/critical-css": "^0.5",
         "jandc/twig-wrapper-provider": "^0.3"
     },
     "authors": [
